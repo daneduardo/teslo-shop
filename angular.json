@@ -68,7 +68,7 @@
               "buildTarget": "teslo-shop:build:development"
             }
           },
-          "defaultConfiguration": "development"
+          "defaultConfiguration": "production"
         },
         "test": {
           "builder": "@angular/build:unit-test"
